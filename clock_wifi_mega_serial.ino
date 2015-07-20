@@ -110,7 +110,7 @@ Serial.println("http://www.roroid.ro/php/ceas.php");
 Serial.print(sendcommand); 
 
   if(Serial2.find("SEND OK")){
-    finder.find("TIMP=");
+    finder.find("TIME=");
     pctime=finder.getValue();
     pctime=pctime+7200;
     setTime(pctime);
