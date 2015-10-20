@@ -1,5 +1,6 @@
 // http://www.roroid.ro/termometru-cu-ceas-bazat-pe-arduino-si-esp8266/
 // adapted by niq_ro from http://nicuflorica.blogspot.ro/
+// http://www.tehnic.go.ro
 // and http://arduinotehniq.blogspot.com/
 
 #include <TextFinder.h>
