@@ -1,5 +1,5 @@
 // original sketch: http://shin-ajaran.blogspot.ro/2014/12/noobs-guide-to-esp8266-with-arduino.html
-// rewrite after phote by niq_ro from http://nicuflorica.blogspot.com/
+// rewrite after photo by niq_ro from http://nicuflorica.blogspot.com/
 // and http://arduinotehniq.blogspot.com/
 
 void setup() {
